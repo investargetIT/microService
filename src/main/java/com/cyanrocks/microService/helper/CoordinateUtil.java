@@ -3,7 +3,7 @@ package com.cyanrocks.microService.helper;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.cyanrocks.microService.code.RestCode;
 import com.cyanrocks.microService.web.RdsWsClient;
-import com.cr.myhttputils.MyHttp;
+import com.cyanrocks.myhttputils.MyHttp;
 import java.io.IOException;
 import java.lang.invoke.MethodHandles;
 import java.net.URI;

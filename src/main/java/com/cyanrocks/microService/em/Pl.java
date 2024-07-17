@@ -1,4 +1,4 @@
-package com.cr.microService.em;
+package com.cyanrocks.microService.em;
 
 public enum Pl {
    PUBLIC,

@@ -1,4 +1,4 @@
-package com.cr.microService.helper;
+package com.cyanrocks.microService.helper;
 
 public class HttpApiInfo {
    private String scheme = "http";

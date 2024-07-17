@@ -1,6 +1,6 @@
-package com.cr.microService.anno;
+package com.cyanrocks.microService.anno;
 
-import com.cr.microService.em.Pl;
+import com.cyanrocks.microService.em.Pl;
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

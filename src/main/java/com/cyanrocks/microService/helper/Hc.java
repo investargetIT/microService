@@ -1,8 +1,8 @@
-package com.cr.microService.helper;
+package com.cyanrocks.microService.helper;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.cr.microService.web.MyTraceRequestListener;
-import com.cr.microService.web.RdsWsClient;
+import com.cyanrocks.microService.web.MyTraceRequestListener;
+import com.cyanrocks.microService.web.RdsWsClient;
 import com.cr.myhttputils.FileDataInfo;
 import com.cr.myhttputils.HttpDataInfo;
 import com.cr.myhttputils.MyHttp;

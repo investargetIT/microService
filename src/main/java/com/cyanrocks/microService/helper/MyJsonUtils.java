@@ -1,4 +1,4 @@
-package com.cr.microService.helper;
+package com.cyanrocks.microService.helper;
 
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;

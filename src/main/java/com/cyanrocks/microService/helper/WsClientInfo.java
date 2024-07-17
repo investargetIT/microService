@@ -1,4 +1,4 @@
-package com.cr.microService.helper;
+package com.cyanrocks.microService.helper;
 
 import java.util.Objects;
 import javax.websocket.Session;

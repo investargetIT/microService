@@ -1,7 +1,8 @@
-package com.cr.microService.web;
+package com.cyanrocks.microService.web;
 
-import com.cr.microService.helper.CoordinateUtil;
+import com.cyanrocks.microService.helper.CoordinateUtil;
 import java.lang.invoke.MethodHandles;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.web.context.WebServerInitializedEvent;

@@ -1,8 +1,8 @@
-package com.cr.microService.code;
+package com.cyanrocks.microService.code;
 
+import com.cyanrocks.microService.helper.ClientApi;
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.cr.microService.helper.ClientApi;
-import com.cr.microService.helper.MyJsonUtils;
+import com.cyanrocks.microService.helper.MyJsonUtils;
 import java.lang.invoke.MethodHandles;
 import javax.websocket.DecodeException;
 import javax.websocket.Decoder;

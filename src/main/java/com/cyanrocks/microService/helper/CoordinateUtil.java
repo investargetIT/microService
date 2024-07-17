@@ -1,8 +1,8 @@
-package com.cr.microService.helper;
+package com.cyanrocks.microService.helper;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.cr.microService.code.RestCode;
-import com.cr.microService.web.RdsWsClient;
+import com.cyanrocks.microService.code.RestCode;
+import com.cyanrocks.microService.web.RdsWsClient;
 import com.cr.myhttputils.MyHttp;
 import java.io.IOException;
 import java.lang.invoke.MethodHandles;
